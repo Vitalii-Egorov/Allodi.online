@@ -1,5 +1,7 @@
 # Allodi.online
 
+https://vitalii-egorov.github.io/Allodi.online/
+
 ## Использованные технологии:
 
 - html
